@@ -1,0 +1,285 @@
+{
+  "version": "2.0",
+  "created": "2025-06-10T08:22:25.400Z",
+  "festival": "Garbicz Festival 2025",
+  "festivalDates": "30.6. – 4.8.2025",
+  "locations": {
+    "access": [
+      {
+        "name": "Festival Entrance",
+        "lat": 52.306927328939516,
+        "lng": 14.999499430070339,
+        "icon": "⚬",
+        "color": "#ff0000",
+        "description": "Main festival entrance through Garbicz village",
+        "audio": null
+      },
+      {
+        "name": "Accreditation",
+        "lat": 52.30661986406152,
+        "lng": 14.99993184530935,
+        "icon": "●",
+        "color": "#ff6e00",
+        "description": "Check-in point for wristband activation",
+        "audio": null
+      },
+      {
+        "name": "Backstage Access",
+        "lat": 52.305746709346195,
+        "lng": 15.000682087481518,
+        "icon": "■",
+        "color": "#7d19ff",
+        "description": "The backstage area is for Crew, Tenants and Artists that have been specially invited",
+        "details": "",
+        "audio": null
+      }
+    ],
+    "stages": [
+      {
+        "name": "Lichtung",
+        "lat": 52.30519013153199,
+        "lng": 14.997405203689034,
+        "icon": "◐",
+        "color": "#00f000",
+        "description": "Sanctuary for human connection, workshops, performances, healing sounds, live concerts, sauna, reiki, massages.",
+        "details": "Workshops, Teebar, Sauna, Sober Space, Cacao & Adaptogenics, Brazilian Food",
+        "audio": "waldfloor"
+      },
+      {
+        "name": "Ali's Teebar",
+        "lat": 52.30565021614323,
+        "lng": 14.99683665644283,
+        "icon": "▣",
+        "color": "#ffeb00",
+        "description": "Fresh herbal brew to calm your mind, focus your spirit, and relax",
+        "details": "Perfect place for tea and spiritual connection",
+        "audio": null
+      },
+      {
+        "name": "See Floor",
+        "lat": 52.30023773483686,
+        "lng": 15.003052948484568,
+        "icon": "◈",
+        "color": "#0096ff",
+        "description": "The village square of Garbicz Festival. Everything is allowed! From afternoon cooking shows to mindless niche raving.",
+        "details": "Cooking shows, folkloric concerts, cabaret, drag performances, niche rave",
+        "audio": "compilation"
+      },
+      {
+        "name": "BuK Corner",
+        "lat": 52.29968063073753,
+        "lng": 15.004726846142004,
+        "icon": "♦",
+        "color": "#ff00ff",
+        "description": "Forest stage by the lake with deep house, minimal, and hypnotic grooves",
+        "details": "Nestled among birch and beech trees, underground legends to rising talents",
+        "audio": "modular"
+      },
+      {
+        "name": "Wiese Floor",
+        "lat": 52.30216061017868,
+        "lng": 15.000337285429515,
+        "icon": "◆",
+        "color": "#00f000",
+        "description": "House music floor with smooth, soulful beats and chill vibes",
+        "details": "Perfect place for warm, soulful house music and good times",
+        "audio": "wiese"
+      },
+      {
+        "name": "Loco Paradiso",
+        "lat": 52.30184114434939,
+        "lng": 14.998969464384402,
+        "icon": "◉",
+        "color": "#7d19ff",
+        "description": "Ambientfloor - Multidimensional sanctuary of deep listening and sensory immersion",
+        "details": "World music, organic-electronic soundscapes, sunrise rituals, video installations",
+        "audio": "ambient"
+      },
+      {
+        "name": "Pleisure Island",
+        "lat": 52.30132858258844,
+        "lng": 14.999840366998091,
+        "icon": "◎",
+        "color": "#00ffff",
+        "description": "Where afro meets trance, nail art is essential, tooth gems sparkle. Softness is a superpower.",
+        "details": "Between disco and desire, running and raving, performance and play",
+        "audio": null
+      },
+      {
+        "name": "Wald Floor",
+        "lat": 52.30211286026352,
+        "lng": 15.004158851386341,
+        "icon": "▲",
+        "color": "#ff6e00",
+        "description": "Hard driving techno beats with next level light setup and mind-blowing laser show",
+        "details": "Perfect for those who crave heavier, more energetic sounds",
+        "audio": null
+      },
+      {
+        "name": "Juicy",
+        "lat": 52.30199489505688,
+        "lng": 15.001909341669773,
+        "icon": "◐",
+        "color": "#ffeb00",
+        "description": "Started as juice hut, became viby dancefloor. Good drinks, groovy tunes. Keep it juicy!",
+        "details": "Quirky team, boogie followers, best freaks from around the world",
+        "audio": null
+      },
+      {
+        "name": "Temple",
+        "lat": 52.30253857207688,
+        "lng": 15.000373561796058,
+        "icon": "⬟",
+        "color": "#ff0000",
+        "description": "Sacred space for deeper musical and spiritual experiences",
+        "audio": null
+      },
+      {
+        "name": "Ambient Floor",
+        "lat": 52.301572,
+        "lng": 14.998572,
+        "icon": "◆",
+        "color": "#ff00ff",
+        "description": "A dedicated space for immersive, relaxing, and experimental sound experiences, distinct from the festival's more energetic dance stages.",
+        "details": "",
+        "audio": null
+      }
+    ],
+    "food": [
+      {
+        "name": "Food Court Central",
+        "lat": 52.30291945144958,
+        "lng": 15.001182034150915,
+        "icon": "▤",
+        "color": "#ff6e00",
+        "description": "Central food area with diverse international cuisine",
+        "details": "Multiple vendors: Breakfast Club, NOMI, Schnitzel Terrace, Pizza, Burgers, and more"
+      },
+      {
+        "name": "Breakfast Club",
+        "lat": 52.3029,
+        "lng": 15.0012,
+        "icon": "☀",
+        "color": "#ffeb00",
+        "description": "Breakfast buffet with freshly baked bread, cheese, spreads, cereals",
+        "details": "Open 08:00–13:00, tasty detention vibes"
+      },
+      {
+        "name": "Caroli's Coffee & Bar",
+        "lat": 52.3029,
+        "lng": 15.0011,
+        "icon": "☕",
+        "color": "#ff0000",
+        "description": "Morning coffee, margaritas, daiquiris, bubbles in golden Garbicz mug",
+        "details": "Open 08:00–OPEN END, frozen beverages available"
+      },
+      {
+        "name": "NOMI Terrace",
+        "lat": 52.303,
+        "lng": 15.0012,
+        "icon": "🥂",
+        "color": "#ff00ff",
+        "description": "High up terrace with champagne breakfast and wine experience",
+        "details": "Breakfast 09:00–14:00, Bubbles Bar 09:00–OPEN END"
+      },
+      {
+        "name": "Wine Bar",
+        "lat": 52.30328243262796,
+        "lng": 15.001238689134926,
+        "icon": "🍷",
+        "color": "#7d19ff",
+        "description": "Garbicz cult classic with wine, bubbles, music, friends on comfy couches",
+        "details": "Open 24/7, perfect for hanging and getting winy"
+      }
+    ],
+    "services": [
+      {
+        "name": "Festival Info",
+        "lat": 52.30268891943137,
+        "lng": 15.00091328786337,
+        "icon": "i",
+        "color": "#0019ff",
+        "description": "Information, lost & found, top-up station, phone charging, troubleshooting",
+        "details": "Located near Wiese, helps with cashless payment system and wristband issues"
+      },
+      {
+        "name": "Medical Team",
+        "lat": 52.302887633796416,
+        "lng": 15.000352599661282,
+        "icon": "+",
+        "color": "#ff0000",
+        "description": "German, English and Polish speaking medics always present",
+        "details": "Located next to food court, here to help and care at any time"
+      },
+      {
+        "name": "Awareness Team",
+        "lat": 52.302640788179,
+        "lng": 15.000532692064416,
+        "icon": "⚐",
+        "color": "#00f000",
+        "description": "Creating safer spaces, fighting discrimination, supporting festival-goers",
+        "details": "Next to Eclipse and Medics, listeners and supporters against sexism, racism, discrimination"
+      },
+      {
+        "name": "Artist Care",
+        "lat": 52.306022,
+        "lng": 14.999122,
+        "icon": "i",
+        "color": "#0019ff",
+        "description": "Here we care for artists quite alot",
+        "details": "",
+        "audio": null
+      }
+    ],
+    "camping": [
+      {
+        "name": "Silent Camping",
+        "lat": 52.30782269506013,
+        "lng": 14.997747885233208,
+        "icon": "🤫",
+        "color": "#00f000",
+        "description": "Quiet camping area for rest and tranquility, no sound systems allowed"
+      },
+      {
+        "name": "Main Camping",
+        "lat": 52.30352192280878,
+        "lng": 15.002847519852684,
+        "icon": "⛺",
+        "color": "#00ffff",
+        "description": "Main guest camping area within walking distance of stages"
+      }
+    ],
+    "art": [
+      {
+        "name": "Nerdwald",
+        "lat": 52.301569543951985,
+        "lng": 15.00238288781397,
+        "icon": "🎨",
+        "color": "#ff00ff",
+        "description": "Art installations area with experimental and playful exhibits",
+        "details": "Attractor, kuker/site, windchime, Promises, Breakthrough Bar, Physics in woods"
+      },
+      {
+        "name": "Performance Space",
+        "lat": 52.301371378167204,
+        "lng": 15.003020285321991,
+        "icon": "🎪",
+        "color": "#ff0000",
+        "description": "Queer cabaret, neo-punk energy, choir performances",
+        "details": "MIDUMMER NIGHTS CREAM, MUOVIPUSSI from Finland, SPIEVY chanting"
+      }
+    ]
+  },
+  "metadata": {
+    "totalLocations": 27,
+    "categories": [
+      "access",
+      "stages",
+      "food",
+      "services",
+      "camping",
+      "art"
+    ],
+    "exportedBy": "Garbicz Auto-Sync Map v2.0"
+  }
+}
