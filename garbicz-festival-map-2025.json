@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "created": "2025-06-10T08:22:25.400Z",
+  "created": "2025-06-12T08:25:52.087Z",
   "festival": "Garbicz Festival 2025",
   "festivalDates": "30.6. – 4.8.2025",
   "locations": {
@@ -15,13 +15,14 @@
         "audio": null
       },
       {
-        "name": "Accreditation",
+        "name": "Accreditation /  Check-in",
         "lat": 52.30661986406152,
         "lng": 14.99993184530935,
         "icon": "●",
         "color": "#ff6e00",
         "description": "Check-in point for wristband activation",
-        "audio": null
+        "audio": null,
+        "details": ""
       },
       {
         "name": "Backstage Access",
@@ -30,6 +31,16 @@
         "icon": "■",
         "color": "#7d19ff",
         "description": "The backstage area is for Crew, Tenants and Artists that have been specially invited",
+        "details": "",
+        "audio": null
+      },
+      {
+        "name": "Production Office",
+        "lat": 52.305874,
+        "lng": 14.999886,
+        "icon": "⚬",
+        "color": "#ff0000",
+        "description": "Orga starts here. Crew only",
         "details": "",
         "audio": null
       }
@@ -190,6 +201,36 @@
         "color": "#7d19ff",
         "description": "Garbicz cult classic with wine, bubbles, music, friends on comfy couches",
         "details": "Open 24/7, perfect for hanging and getting winy"
+      },
+      {
+        "name": "Reger Republic",
+        "lat": 52.302568,
+        "lng": 15.000981,
+        "icon": "▤",
+        "color": "#ff6e00",
+        "description": "These burgers are unlike anything you know: completely plant–based for maximum harmony, openness, and appreciation. Just pick your favorite one!",
+        "details": "Vegan Burgers",
+        "audio": null
+      },
+      {
+        "name": "NomA Kitchen",
+        "lat": 52.305292,
+        "lng": 14.997448,
+        "icon": "▤",
+        "color": "#ff6e00",
+        "description": "A celebration of Brazilian biodiversity translated into dishes that are pure art, color and nutrition. Come here for breakfast, snacks, or fusiuon food. Or just join for a cosmic cocktail at the bar.",
+        "details": "",
+        "audio": null
+      },
+      {
+        "name": "Polska Kuchnia",
+        "lat": 52.303059,
+        "lng": 15.002043,
+        "icon": "▤",
+        "color": "#ff6e00",
+        "description": "Great Location with Polish food, canÄt recommend though cut the owner is a cunt and rips off the festival.",
+        "details": "",
+        "audio": null
       }
     ],
     "services": [
@@ -247,6 +288,16 @@
         "icon": "⛺",
         "color": "#00ffff",
         "description": "Main guest camping area within walking distance of stages"
+      },
+      {
+        "name": "Tentation Reception",
+        "lat": 52.305323,
+        "lng": 14.998891,
+        "icon": "▲",
+        "color": "#00ffff",
+        "description": "Chill area and reception nestled in a shaded forest area near the lake",
+        "details": "",
+        "audio": null
       }
     ],
     "art": [
@@ -268,17 +319,30 @@
         "description": "Queer cabaret, neo-punk energy, choir performances",
         "details": "MIDUMMER NIGHTS CREAM, MUOVIPUSSI from Finland, SPIEVY chanting"
       }
+    ],
+    "other": [
+      {
+        "name": "Backstage Kiosk",
+        "lat": 52.306032,
+        "lng": 14.999779,
+        "icon": "●",
+        "color": "#7d7d7d",
+        "description": "Annas Kiosk that sells overpriced stuff to the Crew",
+        "details": "",
+        "audio": null
+      }
     ]
   },
   "metadata": {
-    "totalLocations": 27,
+    "totalLocations": 33,
     "categories": [
       "access",
       "stages",
       "food",
       "services",
       "camping",
-      "art"
+      "art",
+      "other"
     ],
     "exportedBy": "Garbicz Auto-Sync Map v2.0"
   }
